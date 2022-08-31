@@ -18,7 +18,7 @@ Python 3.10.5
    
    
 ##### To run..⋅⋅
-    type *mainMouse.py* in terminal
+Markup :  _Emphasized text_ or *Emphasized text*
 
 ##### Reference(s): ##### 
 [AI Virtual Mouse](https://www.youtube.com/watch?v=ufm6tfgo-OA)
