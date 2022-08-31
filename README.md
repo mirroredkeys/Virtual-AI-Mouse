@@ -17,8 +17,8 @@ Python 3.10.5
 3. install package(s)
    
    
-##### To run..⋅⋅
- type _Emphasized text_ in terminal
+#### To run..⋅⋅
+ type _mainMouse.py_ in terminal
 
 ##### Reference(s): ##### 
 [AI Virtual Mouse](https://www.youtube.com/watch?v=ufm6tfgo-OA)
