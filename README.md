@@ -18,7 +18,7 @@ Python 3.10.5
    
    
 #### To run..⋅⋅
- type _mainMouse.py_ in terminal
+ type __python mainMouse.py__ in terminal
 
 ##### Reference(s): ##### 
 [AI Virtual Mouse](https://www.youtube.com/watch?v=ufm6tfgo-OA)
